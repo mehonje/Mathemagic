@@ -1,0 +1,26 @@
+Started development on 21/4/2026
+
+u0.2026.16.1, 21/4/2026
+  Added linear functions
+    Graph function of metadata "expression"
+    f(x)=expression
+    Cartesian coordinate system
+    X increases at a rate of 0.5 units per 1 second
+    2 "heads", 1 increasing positive and 1 increasing negative, with an effective speed of 1 units per 1 second
+
+u0.2026.16.2, 22/4/2026
+  Added polar functions
+    Graph function of metadata "expression"
+    f(θ)=expression
+    Polar coordinate system
+    θ increases at a rate of 1 unit per 1 second
+    1 "head", increasing positive
+  Added parametric functions
+    Graph function of metadata "x_expression" and "y_expression"
+    f(t)=(x_expression, y_expression)
+    Cartesian coordnate system
+    t increases at a rate of 1 unit per 1 second
+    1 "head", increasing positive
+  Added axes to all functions
+    Axes are lines on x and y axes
+    Animated and increase at a speed of 5 units per 1 second
