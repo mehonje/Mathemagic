@@ -33,4 +33,6 @@ u0.2026.16.3, 23/4/2026
 u0.2026.16.4, 24/4/2026
   Added player movement
   Added player animations for idle, jumping, falling, and walking
+    Source: https://scratch.mit.edu/projects/612229554/
+    Creator: https://scratch.mit.edu/users/griffpatch/
   Added line collisions
