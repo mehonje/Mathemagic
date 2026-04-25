@@ -29,3 +29,8 @@ u0.2026.16.3, 23/4/2026
   Decoupled point sample rate from framerate
   Added basic asymptote avoidance
     Limits maximum absolute slope
+
+u0.2026.16.4, 24/4/2026
+  Added player movement
+  Added player animations for idle, jumping, falling, and walking
+  Added line collisions
